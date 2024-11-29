@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+01	clone
+02	add
+03	commit
+04	push				no conflict
