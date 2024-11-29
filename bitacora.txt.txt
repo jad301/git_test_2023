@@ -10,3 +10,8 @@
 02	add
 03	commit
 04	push				no conflict
+10	add+commit
+11	checkout develop
+12	branch feature/Ticket221
+16	add+commit
+17	checkout
