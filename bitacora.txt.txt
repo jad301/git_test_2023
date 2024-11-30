@@ -10,3 +10,30 @@
 02	add
 03	commit
 04	push				no conflict
+06	add + commit
+07	branch develop
+08	branch feature/Ticket220
+	checkout
+10	add+commit
+11	checkout develop
+12	branch feature/Ticket221
+16	add+commit
+17	checkout
+14	stash + checkout
+18	pop stash + add
+19	commit
+20 	checkout develop
+21	branch 
+22	checkout			fast-forward
+24	add + commit
+25	checkout
+26	merge --no-ff feature		no conflicto
+27	merge --no-ff feature		conflicto, reordeno
+29	add + commit
+30	tag
+31	add + commit
+32	checkout
+33	checkout develp bitacora.txt
+
+
+
