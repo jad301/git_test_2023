@@ -29,5 +29,11 @@
 25	checkout
 26	merge --no-ff feature		no conflicto
 27	merge --no-ff feature		conflicto, reordeno
+29	add + commit
+30	tag
+31	add + commit
+32	checkout
+33	checkout develp bitacora.txt
+
 
 
