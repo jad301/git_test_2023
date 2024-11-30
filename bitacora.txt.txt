@@ -25,4 +25,9 @@
 20 	checkout develop
 21	branch 
 22	checkout			fast-forward
+24	add + commit
+25	checkout
+26	merge --no-ff feature		no conflicto
+27	merge --no-ff feature		conflicto, reordeno
+
 
